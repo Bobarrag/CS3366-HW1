@@ -41,3 +41,4 @@ Bonny Barragan 9/18/2019
    floor number be the actual button, as these are two very standard setups.
    
 ## Sketch of Fix
+![Sketch ain't workin](https://github.com/Bobarrag/hw1.15.Barragan/blob/master/Sketch.png)
