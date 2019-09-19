@@ -5,6 +5,8 @@ Bonny Barragan 9/18/2019
 
 ![Pic ain't workin](https://github.com/Bobarrag/hw1.15.Barragan/blob/master/TheElevator.png)
 
+![Gif ain't workin](https://github.com/Bobarrag/hw1.15.Barragan/blob/master/tNyBNPEEgP.gif)
+
 ## The Problems
 - The chiefmost problem is the number of options that the user has.
   - First option: the "buttons" in the leftmost column, which are really just empty panels that they didnt' use
@@ -19,3 +21,14 @@ Bonny Barragan 9/18/2019
  - Final Problem is the shape and alignment of buttons
    - Because all of the shapes and buttons are huddled together nothing intutuively distinguishes the right button 
     from the rest
+    
+## Common Elevator Use Cases and Feedback
+- The Ground Floor
+  - The most common use case is taking the elevator to the first floor because most of the time, you are going
+    to have to use the elevator to leave the area again.
+  - The only helpful thing the elevator does to suggest what the correct button to press would be is having the
+    button be translucent, which even then could be construed as it just being a light for the actual button.
+  - The elevator, like most others, has the standard feedback of having the floor lit after you've pressed it 
+    and making a sound when you've pressed it.
+  - The most common mistake, as seen by the peeled bottom floor buttons, is pushing the wrong panels trying to
+    find the right button
