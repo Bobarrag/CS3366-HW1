@@ -17,5 +17,5 @@ Bonny Barragan 9/18/2019
   - The correct button looks like it could just be the sliver that lights up when you hit the button, not the 
     button itself
  - Final Problem is the shape and alignment of buttons
-  - Because all of the shapes and buttons are huddled together nothing intutuively distinguishes the right button 
+   - Because all of the shapes and buttons are huddled together nothing intutuively distinguishes the right button 
     from the rest
