@@ -32,3 +32,12 @@ Bonny Barragan 9/18/2019
     and making a sound when you've pressed it.
   - The most common mistake, as seen by the peeled bottom floor buttons, is pushing the wrong panels trying to
     find the right button
+    
+## Suggestions for Fixing the Elevator
+ - Get rid of the leftmost column next to the floors, this will outright remove one of the wrong options
+ - Move the bottom left two buttons such that everything is in 2 rows, leaving less confusion as to what is
+   usable and what isn't.
+ - Either change the shape of the floor number panel and the button to circles or just have the reactangular 
+   floor number be the actual button, as these are two very standard setups.
+   
+## Sketch of Fix
